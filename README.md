@@ -7,7 +7,7 @@
 The repository includes Straightforward python script for prediction of PIK3CA variants and additional files:
 
 * SF for clinvar variants (PIK3CA).ipynb - jupyter notebook with code for the predictions of PIK3CA variants
-* sf1.py - python script to predict PIK3CA variants (additional old version)
+* sf1.py - python script for prediction PIK3CA variants (+ additional old version)
 * Multiple_alignment.fa - multiple sequence alignment (MAFFT) of the human PIK3CA protein and its orthologues
 * PIK3CA_ClinVar.txt - all missense mutations described for PIK3CA in CLinVar
 * ClinVar_control.txt - control sample 
