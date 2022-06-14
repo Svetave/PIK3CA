@@ -1,0 +1,187 @@
+Input,Prediction,Conservative,Substitutions,Uncertain_substitutions
+NP_006209.2 1 M V,Pathogenic,306,0,0
+NP_006209.2 4 R P,Pathogenic,306,0,0
+NP_006209.2 13 I V,Likely Pathogenic,226,M,F
+NP_006209.2 14 H Y,Uncertain significance,305,,Y
+NP_006209.2 31 I L,Uncertain significance,289,V M,F L
+NP_006209.2 31 I M,Benign,289,V M,F L
+NP_006209.2 35 E Q,Pathogenic,306,0,0
+NP_006209.2 38 R C,Pathogenic,306,0,0
+NP_006209.2 47 H Y,Pathogenic,306,0,0
+NP_006209.2 47 H R,Pathogenic,306,0,0
+NP_006209.2 47 H Q,Pathogenic,306,0,0
+NP_006209.2 50 F L,Pathogenic,306,0,0
+NP_006209.2 52 E Q,Pathogenic,306,0,0
+NP_006209.2 59 H Y,Benign,150,N Y,C S Y
+NP_006209.2 59 H P,Likely Pathogenic,150,N Y,C S Y
+NP_006209.2 61 L I,Pathogenic,306,0,0
+NP_006209.2 63 Q H,Pathogenic,306,0,0
+NP_006209.2 71 V I,Benign,303,I,F
+NP_006209.2 72 S G,Likely Pathogenic,305,,C
+NP_006209.2 92 L I,Pathogenic,306,0,0
+NP_006209.2 101 V L,Pathogenic,306,0,0
+NP_006209.2 104 P R,Pathogenic,306,0,0
+NP_006209.2 106 G D,Pathogenic,306,0,0
+NP_006209.2 107 N S,Pathogenic,306,0,0
+NP_006209.2 109 E D,Benign,303,D,F
+NP_006209.2 114 N S,Benign,301,S H,
+NP_006209.2 121 I V,Pathogenic,305,0,0
+NP_006209.2 123 M V,Pathogenic,306,0,0
+NP_006209.2 125 V M,Likely Pathogenic,220,I,
+NP_006209.2 129 D G,Likely Pathogenic,298,,E
+NP_006209.2 130 M T,Likely Pathogenic,169,V I L,L
+NP_006209.2 134 P S,Benign,262,T S L,
+NP_006209.2 141 R K,Benign,297,K,
+NP_006209.2 146 V I,Pathogenic,306,0,0
+NP_006209.2 154 R K,Pathogenic,305,0,0
+NP_006209.2 155 D H,Likely Pathogenic,303,,E N A
+NP_006209.2 156 L F,Benign,83,V F T N A C S,V S A
+NP_006209.2 157 N S,Uncertain significance,281,,C S H D
+NP_006209.2 159 P L,Likely Pathogenic,289,,V C S A
+NP_006209.2 162 R K,Benign,304,K,
+NP_006209.2 167 Y C,Benign,243,C,
+NP_006209.2 175 P L,Likely Pathogenic,180,T S V A,T Q A
+NP_006209.2 187 K E,Pathogenic,306,0,0
+NP_006209.2 187 K T,Pathogenic,306,0,0
+NP_006209.2 188 G E,Likely Pathogenic,305,,A
+NP_006209.2 196 V I,Likely Pathogenic,305,,F
+NP_006209.2 204 K R,Pathogenic,306,0,0
+NP_006209.2 204 K T,Pathogenic,306,0,0
+NP_006209.2 208 T S,Benign,300,S,
+NP_006209.2 212 N S,Benign,297,S,
+NP_006209.2 215 C Y,Benign,224,F S W Y,Y
+NP_006209.2 221 I V,Pathogenic,306,0,0
+NP_006209.2 240 K T,Pathogenic,306,0,0
+NP_006209.2 248 G S,Pathogenic,306,0,0
+NP_006209.2 255 C Y,Likely Pathogenic,305,,F
+NP_006209.2 272 Y H,Pathogenic,306,0,0
+NP_006209.2 273 I V,Benign,204,V,
+NP_006209.2 279 L F,Pathogenic,306,0,0
+NP_006209.2 288 M T,Pathogenic,306,0,0
+NP_006209.2 304 M V,Pathogenic,305,0,0
+NP_006209.2 310 R C,Pathogenic,306,0,0
+NP_006209.2 311 I V,Pathogenic,306,0,0
+NP_006209.2 316 P T,Likely Pathogenic,292,G S A,S
+NP_006209.2 318 M I,Pathogenic,306,0,0
+NP_006209.2 319 N D,Pathogenic,306,0,0
+NP_006209.2 332 S N,Likely Pathogenic,202,G,G D
+NP_006209.2 332 S I,Likely Pathogenic,202,G,G D
+NP_006209.2 333 A S,Benign,160,H V T N S P,T V M
+NP_006209.2 333 A V,Benign,160,H V T N S P,T V M
+NP_006209.2 350 D G,Pathogenic,306,0,0
+NP_006209.2 352 D V,Pathogenic,306,0,0
+NP_006209.2 355 Y C,Pathogenic,306,0,0
+NP_006209.2 361 Y C,Benign,294,C F,F
+NP_006209.2 377 P R,Likely Pathogenic,305,,F
+NP_006209.2 379 S C,Likely Pathogenic,305,,F
+NP_006209.2 380 N S,Pathogenic,306,0,0
+NP_006209.2 380 N I,Pathogenic,306,0,0
+NP_006209.2 398 R H,Likely Pathogenic,299,C S,
+NP_006209.2 412 R L,Pathogenic,306,0,0
+NP_006209.2 415 A V,Pathogenic,306,0,0
+NP_006209.2 418 E K,Likely Pathogenic,305,,V
+NP_006209.2 435 T I,Pathogenic,306,0,0
+NP_006209.2 436 L V,Pathogenic,306,0,0
+NP_006209.2 441 M V,Pathogenic,305,0,0
+NP_006209.2 442 A T,Pathogenic,306,0,0
+NP_006209.2 442 A P,Pathogenic,306,0,0
+NP_006209.2 448 V I,Likely Pathogenic,305,,F
+NP_006209.2 462 T A,Benign,300,S A,
+NP_006209.2 478 D Y,Likely Pathogenic,303,,E
+NP_006209.2 483 V L,Benign,85,L S A P,L P
+NP_006209.2 483 V A,Benign,85,L S A P,L P
+NP_006209.2 484 V I,Uncertain significance,302,,I L
+NP_006209.2 489 M V,Likely Pathogenic,303,,T K L
+NP_006209.2 489 M I,Likely Pathogenic,303,,T K L
+NP_006209.2 492 I M,Likely Pathogenic,269,T V,V S
+NP_006209.2 494 E G,Benign,197,G D,D M
+NP_006209.2 497 N H,Likely Pathogenic,302,T,I S
+NP_006209.2 497 N S,Uncertain significance,302,T,I S
+NP_006209.2 498 W C,Likely Pathogenic,290,,R F K
+NP_006209.2 499 S C,Likely Pathogenic,87,T,T V N M A I
+NP_006209.2 501 S T,Likely Pathogenic,295,,P E A
+NP_006209.2 502 R Q,Likely Pathogenic,302,T S K,
+NP_006209.2 509 S T,Uncertain significance,186,G C N A,L T N C F
+NP_006209.2 510 H N,Likely Pathogenic,198,P C Y,L Y Q I P
+NP_006209.2 512 G A,Benign,299,V I A,S
+NP_006209.2 514 S R,Likely Pathogenic,298,T G P,T
+NP_006209.2 515 N S,Benign,278,T S K,S
+NP_006209.2 518 A G,Likely Pathogenic,300,T V,V
+NP_006209.2 527 D G,Likely Pathogenic,305,,E
+NP_006209.2 533 A T,Likely Pathogenic,178,,Q S H L
+NP_006209.2 533 A G,Likely Pathogenic,178,,Q S H L
+NP_006209.2 537 R Q,Likely Pathogenic,302,,K
+NP_006209.2 539 P S,Likely Pathogenic,302,A,
+NP_006209.2 540 L V,Pathogenic,306,0,0
+NP_006209.2 544 T S,Pathogenic,306,0,0
+NP_006209.2 544 T N,Pathogenic,306,0,0
+NP_006209.2 554 H Y,Likely Pathogenic,300,N,N Q
+NP_006209.2 583 M V,Pathogenic,306,0,0
+NP_006209.2 583 M I,Pathogenic,306,0,0
+NP_006209.2 583 M I,Pathogenic,306,0,0
+NP_006209.2 589 D G,Benign,290,E G N,
+NP_006209.2 592 P S,Benign,155,E S Y V T Q A F,S
+NP_006209.2 603 D N,Pathogenic,306,0,0
+NP_006209.2 604 C R,Likely Pathogenic,300,F,
+NP_006209.2 607 P S,Pathogenic,306,0,0
+NP_006209.2 610 M V,Benign,291,V R I L,V F I K
+NP_006209.2 615 A S,Likely Pathogenic,305,,C
+NP_006209.2 617 R Q,Benign,217,H T K Q M C S,A
+NP_006209.2 650 V A,Benign,223,G A,
+NP_006209.2 652 F S,Likely Pathogenic,304,C,
+NP_006209.2 681 S T,Pathogenic,306,0,0
+NP_006209.2 683 R T,Pathogenic,306,0,0
+NP_006209.2 686 L M,Pathogenic,306,0,0
+NP_006209.2 691 Y C,Likely Pathogenic,305,,F
+NP_006209.2 693 R C,Likely Pathogenic,305,,F
+NP_006209.2 694 A T,Likely Pathogenic,305,,S
+NP_006209.2 694 A S,Uncertain significance,305,,S
+NP_006209.2 696 G R,Pathogenic,306,0,0
+NP_006209.2 707 E K,Pathogenic,306,0,0
+NP_006209.2 728 Q R,Likely Pathogenic,302,,H P
+NP_006209.2 735 L S,Pathogenic,306,0,0
+NP_006209.2 740 R K,Benign,271,S K,
+NP_006209.2 770 R Q,Pathogenic,306,0,0
+NP_006209.2 777 R S,Pathogenic,306,0,0
+NP_006209.2 788 I F,Likely Pathogenic,232,M,
+NP_006209.2 789 M V,Pathogenic,306,0,0
+NP_006209.2 790 S P,Pathogenic,306,0,0
+NP_006209.2 794 F Y,Pathogenic,306,0,0
+NP_006209.2 794 F L,Pathogenic,306,0,0
+NP_006209.2 798 E K,Pathogenic,306,0,0
+NP_006209.2 808 R W,Pathogenic,306,0,0
+NP_006209.2 808 R Q,Pathogenic,306,0,0
+NP_006209.2 818 R H,Likely Pathogenic,286,K,F
+NP_006209.2 820 M V,Likely Pathogenic,305,,L
+NP_006209.2 838 C S,Pathogenic,306,0,0
+NP_006209.2 842 G S,Pathogenic,306,0,0
+NP_006209.2 844 C R,Pathogenic,306,0,0
+NP_006209.2 848 I T,Pathogenic,306,0,0
+NP_006209.2 852 R Q,Pathogenic,306,0,0
+NP_006209.2 853 N S,Benign,179,C S,
+NP_006209.2 871 Q L,Pathogenic,306,0,0
+NP_006209.2 875 H Y,Likely Pathogenic,266,T S N,N
+NP_006209.2 876 T A,Benign,289,A,A
+NP_006209.2 884 K R,Pathogenic,306,0,0
+NP_006209.2 889 I T,Benign,93,T M L,M
+NP_006209.2 889 I M,Benign,93,T M L,M
+NP_006209.2 899 R H,Pathogenic,306,0,0
+NP_006209.2 906 V L,Pathogenic,306,0,0
+NP_006209.2 910 I V,Pathogenic,305,0,0
+NP_006209.2 926 D N,Benign,299,N,
+NP_006209.2 951 R H,Likely Pathogenic,305,,F
+NP_006209.2 954 F Y,Pathogenic,306,0,0
+NP_006209.2 958 Q K,Pathogenic,306,0,0
+NP_006209.2 970 E K,Likely Pathogenic,305,,F
+NP_006209.2 972 T I,Likely Pathogenic,299,A,
+NP_006209.2 985 Y H,Pathogenic,305,0,0
+NP_006209.2 990 A G,Pathogenic,306,0,0
+NP_006209.2 992 R Q,Pathogenic,306,0,0
+NP_006209.2 994 H Y,Pathogenic,305,0,0
+NP_006209.2 1019 I T,Likely Pathogenic,305,,R
+NP_006209.2 1025 T I,Pathogenic,306,0,0
+NP_006209.2 1044 N K,Pathogenic,306,0,0
+NP_006209.2 1047 H I,Likely Pathogenic,305,,F
+NP_006209.2 1058 I L,Pathogenic,306,0,0
+NP_006209.2 1065 H L,Uncertain significance,298,Q R A,L
+NP_006209.2 1068 N I,Likely Pathogenic,303,,T K
